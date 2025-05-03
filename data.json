@@ -1,0 +1,155 @@
+{
+    "name": "Herasat",
+    "email": "",
+    "subtitles": [
+        "",
+        "",
+        ""
+    ],
+    "blackWhitePhotoURL": "",
+    "coloredPhotoURL": "",
+    "socialLinks": [{
+            "platform": "",
+            "url": ""
+        },
+        {
+            "platform": "",
+            "url": ""
+        },
+        {
+            "platform": "",
+            "url": ""
+        },
+        {
+            "platform": "",
+            "url": ""
+        },
+        {
+            "platform": "",
+            "url": ""
+        },
+        {
+            "platform": "",
+            "url": ""
+        }
+    ],
+    "aboutMeHeadline": "",
+    "aboueMeDetails": "",
+    "technologies": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "services": [{
+            "icon": "",
+            "name": "",
+            "description": ""
+        },
+        {
+            "icon": "",
+            "name": "",
+            "description": ""
+        },
+        {
+            "icon": "",
+            "name": "",
+            "description": ""
+        },
+        {
+            "icon": "",
+            "name": "",
+            "description": ""
+        },
+        {
+            "icon": "",
+            "name": "",
+            "description": ""
+        }
+    ],
+    "hireMe": {
+        "whatsapp": ""
+    },
+    "projects": [{
+            "title": "",
+            "iconUrl": "",
+            "bannerUrl": "",
+            "description": ""
+        },
+        {
+            "title": "",
+            "iconUrl": "",
+            "bannerUrl": "",
+            "description": ""
+        },
+        {
+            "title": "The Holy Qur'an",
+            "iconUrl": "",
+            "bannerUrl": "",
+            "description": ""
+        },
+        {
+            "title": "",
+            "iconUrl": "",
+            "bannerUrl": "",
+            "description": ""
+        },
+        {
+            "title": "",
+            "iconUrl": "",
+            "bannerUrl": "",
+            "description": ""
+        },
+        {
+            "title": "",
+            "iconUrl": "",
+            "bannerUrl": "",
+            "description": ""
+        },
+        {
+            "title": "",
+            "iconUrl": "",
+            "bannerUrl": "",
+            "description": ""
+        },
+        {
+            "title": "",
+            "iconUrl": "",
+            "bannerUrl": "",
+            "description": ""
+        },
+        {
+            "title": "",
+            "iconUrl": "",
+            "bannerUrl": "",
+            "description": ""
+        },
+        {
+            "title": "",
+            "iconUrl": "",
+            "bannerUrl": "",
+            "description": ""
+        },
+        {
+            "title": "",
+            "iconUrl": "",
+            "bannerUrl": "",
+            "description": ""
+        }
+    ],
+    "contact": [{
+            "param": "",
+            "value": ""
+        },
+        {
+            "param": "phone",
+            "value": ""
+        },
+        {
+            "param": "",
+            "value": ""
+        }
+    ]
+}
